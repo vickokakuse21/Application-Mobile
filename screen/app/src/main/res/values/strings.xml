@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">screen</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_contact">contact</string>
+    <string name="action_order">order</string>
+    <string name="action_favorites">favorites</string>
+    <string name="action_order_message">You Selected Order</string>
+    <string name="action_setting_message">You Selected Setting</string>
+    <string name="action_favorites_message">You Selected Favorites</string>
+    <string name="action_contact_message">You Selected Contact</string>
+    <string name="text_size">20sp</string>
+    <string name="choose_datetime">choose the date and time</string>
+    <string name="date_button">date</string>
+    <string name="time_button">time</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_address_hint">enter address</string>
+    <string name="enter_phone_hint">Enter Phone</string>
+    <string name="enter_note_hint">Enter Note</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
